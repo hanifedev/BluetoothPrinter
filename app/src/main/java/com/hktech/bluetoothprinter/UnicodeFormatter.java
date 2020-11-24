@@ -17,4 +17,4 @@ public class UnicodeFormatter {
         return byteToHex(hi) + byteToHex(lo);
     }
 
-} // class
+}
